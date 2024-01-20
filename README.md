@@ -3,7 +3,9 @@
 <h2>If something is wrong with Jupyter do this:</h2>
 
 <p>
-http://127.0.0.1:8889/notebooks
+http://127.0.0.1:<4 digit number>/tree?
+
+For example: http://127.0.0.1:8890/tree/Documents/Data_Analyst_Projects/Python/Jupyter/first
 
 Anaconda tries to open like "localhost". Change it to 127.0.0.1
 
