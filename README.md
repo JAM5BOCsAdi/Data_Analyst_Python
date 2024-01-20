@@ -12,10 +12,11 @@ But if I just open VSCode ->Open folder -> New File -> <name>.ipynb
 Works well 'cause of the extensions
 
 </p>
-<img src="" alt="Jupyter troubleshooting">
+<img src="https://github.com/JAM5BOCsAdi/Data_Analyst_Python/assets/90914431/31b23543-35e7-4f58-87b1-4f2982f73e22" alt="Jupyter troubleshooting">
 
 <p>When starting Jupyter (Shortcut), it helps you to use localhost or 127.0.0.1 in the cmd, and copy it and works.</p>
-<img src="" alt="Jupyter troubleshooting">
+<img src="https://github.com/JAM5BOCsAdi/Data_Analyst_Python/assets/90914431/b60e80e3-eaa6-40e3-aaaf-515c27ba4211" alt="Jupyter troubleshooting">
+
 <!--
 <p>This is the Tableau Public Profile, where you can see all the projects, that i am doing or did before:</p>
 
