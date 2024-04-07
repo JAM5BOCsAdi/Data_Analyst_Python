@@ -20,8 +20,8 @@
 <p>Link for Jupyter Notebook SetUp: <a href="https://www.youtube.com/watch?v=HLD-Ll_-IT4">Click here</a></p>
 <ol>
     <li>Open CMD</li>
-    <li>Move to the folder (or create one) where you want to save files </br> <code>cd C:\Users\<user>\Documents\Data_Analyst\Data_Analyst_Python</code></li>
-    <li>Write "jupyter notebook", simple: </br><code> C:\Users\<user>\Documents\Data_Analyst\Data_Analyst_Python>jupyter notebook</code></li> 
+    <li>Move to the folder (or create one) where you want to save files </br> <code>cd C:\Users\&lt;user&gt;\Documents\Data_Analyst\Data_Analyst_Python</code></li>
+    <li>Write "jupyter notebook", simple: </br><code> C:\Users\&lt;user&gt;\Documents\Data_Analyst\Data_Analyst_Python>jupyter notebook</code></li> 
     <li>May it asks for a browser to open up. Just choose one and you are good to go, create a file.</li>
 </ol>
 
