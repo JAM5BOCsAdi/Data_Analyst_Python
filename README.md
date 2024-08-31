@@ -16,6 +16,29 @@
 | <img height="400 px" src=""> | <img height="400 px" src=""> |
 | <img height="400 px" src=""> | <img height="400 px" src=""> |
 
+<h2>How to start Jupyter Notebook without Anaconda:</h2>
+<p>Link for Jupyter Notebook SetUp: <a href="https://www.youtube.com/watch?v=HLD-Ll_-IT4">Click here</a></p>
+<ol>
+    <li>Open CMD</li>
+    <li>Move to the folder (or create one) where you want to save files </br> <code>cd C:\Users\&lt;user&gt;\Documents\Data_Analyst\Data_Analyst_Python</code></li>
+    <li>Write "jupyter notebook", simple: </br><code> C:\Users\&lt;user&gt;\Documents\Data_Analyst\Data_Analyst_Python>jupyter notebook</code></li> 
+    <li>May it asks for a browser to open up. Just choose one and you are good to go, create a file.</li>
+</ol>
+
+<p>If it does not opens up, you can copy one of the URLs, that are in the CMD:</p>
+<p>    To access the server, open this file in a browser: <br>
+        file:///C:/Users/&lt;user&gt;/AppData/Roaming/jupyter/runtime/jpserver-2200-open.html<br>
+    Or copy and paste one of these URLs:<br>
+        <code>http://localhost:8888/tree?token=&lt;token_is_different_for_everyone&gt;</code><br>
+        <code>http://127.0.0.1:8888/tree?token=&lt;token_is_different_for_everyone&gt;</code><br>
+</p>
+
+
+          
+<img src="" alt="Jupyter troubleshooting">
+<img src="" alt="Jupyter troubleshooting">
+<img src="" alt="Jupyter troubleshooting">
+
 <h2>If something is wrong with Jupyter do this:</h2>
 
 <p>
